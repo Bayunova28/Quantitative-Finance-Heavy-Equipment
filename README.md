@@ -1,2 +1,2 @@
-# Quantitative-Finance-CAT (In-Progress)
-This repository contains my personal project about quantitative finance analysis from Caterpillar Inc. stock
+# Quantitative-Finance-Heavy-Equipment (In-Progress)
+This repository contains my learning project about quantitative finance analysis from Heavy Equipment stocks
